@@ -4,7 +4,7 @@
       <div class = "container my-4">
         <div class = "row gx-lg-5">
           <div class = "col-lg-6 mb-5">
-            <img src = "https://png.pngtree.com/png-vector/20200921/ourlarge/pngtree-red-and-black-logo-png-image_2348180.jpg" class = "img-fluid">
+            <img src = "../assets/logo.png (2).jpeg" class = "img-fluid">
           </div>
           <div class = "col-lg-6">
             <h3>About me</h3>
